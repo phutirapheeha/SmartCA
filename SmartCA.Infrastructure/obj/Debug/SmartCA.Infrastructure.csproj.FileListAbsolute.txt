@@ -1,0 +1,9 @@
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure\bin\Debug\SmartCA.Infrastructure.dll.config
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure\bin\Debug\SmartCA.Infrastructure.dll
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure\bin\Debug\SmartCA.Infrastructure.pdb
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure\obj\Debug\SmartCA.Infrastructure.dll
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure\obj\Debug\SmartCA.Infrastructure.pdb

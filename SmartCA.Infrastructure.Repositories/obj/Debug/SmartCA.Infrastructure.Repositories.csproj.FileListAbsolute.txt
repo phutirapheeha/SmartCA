@@ -1,0 +1,14 @@
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure.Repositories\obj\Debug\SmartCA.Infrastructure.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure.Repositories\bin\Debug\SmartCA.Infrastructure.Repositories.dll
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure.Repositories\bin\Debug\SmartCA.Infrastructure.Repositories.pdb
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure.Repositories\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure.Repositories\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure.Repositories\bin\Debug\SmartCA.Infrastructure.dll
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure.Repositories\bin\Debug\SmartCA.Model.dll
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure.Repositories\bin\Debug\SmartCA.Infrastructure.pdb
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure.Repositories\bin\Debug\SmartCA.Model.pdb
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure.Repositories\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure.Repositories\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure.Repositories\obj\Debug\SmartCA.Infrastructure.Repositories.dll
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure.Repositories\obj\Debug\SmartCA.Infrastructure.Repositories.pdb
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure.Repositories\bin\Debug\SmartCA.sdf

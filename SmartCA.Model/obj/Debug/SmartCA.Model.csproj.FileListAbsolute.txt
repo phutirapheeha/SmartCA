@@ -1,0 +1,7 @@
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Model\bin\Debug\SmartCA.Model.dll
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Model\bin\Debug\SmartCA.Model.pdb
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Model\bin\Debug\SmartCA.Infrastructure.dll
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Model\bin\Debug\SmartCA.Infrastructure.pdb
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Model\obj\Debug\SmartCA.Model.csprojResolveAssemblyReference.cache
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Model\obj\Debug\SmartCA.Model.dll
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Model\obj\Debug\SmartCA.Model.pdb

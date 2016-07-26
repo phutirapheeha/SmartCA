@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCA.Presentation", "SmartCA\SmartCA.Presentation.csproj", "{E340DE4C-F470-4A98-A5D6-A9C92AA955F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCA.Application", "SmartCA.Application\SmartCA.Application.csproj", "{33878CEE-BF94-4817-B9EC-0E5E4D50F977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCA.Infrastructure", "SmartCA.Infrastructure\SmartCA.Infrastructure.csproj", "{0A59C242-0C26-4E7B-A268-CBB1FAB9405F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCA.Model", "SmartCA.Model\SmartCA.Model.csproj", "{D35A1356-0075-4C06-8B1F-77C3220C222F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCA.UnitTests", "SmartCA.UnitTests\SmartCA.UnitTests.csproj", "{2215D7E4-6810-4F9B-8B77-CD04E2663FD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCA.Infrastructure.Repositories", "SmartCA.Infrastructure.Repositories\SmartCA.Infrastructure.Repositories.csproj", "{D2C117C1-9079-4BE5-A96C-2515507ED8DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCA.Infrastructure.UI", "SmartCA.Infrastructure.UI\SmartCA.Infrastructure.UI.csproj", "{35FD3169-8CC0-426E-B703-F43F7BDBDE32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E340DE4C-F470-4A98-A5D6-A9C92AA955F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E340DE4C-F470-4A98-A5D6-A9C92AA955F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E340DE4C-F470-4A98-A5D6-A9C92AA955F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E340DE4C-F470-4A98-A5D6-A9C92AA955F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33878CEE-BF94-4817-B9EC-0E5E4D50F977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33878CEE-BF94-4817-B9EC-0E5E4D50F977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33878CEE-BF94-4817-B9EC-0E5E4D50F977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33878CEE-BF94-4817-B9EC-0E5E4D50F977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A59C242-0C26-4E7B-A268-CBB1FAB9405F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A59C242-0C26-4E7B-A268-CBB1FAB9405F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A59C242-0C26-4E7B-A268-CBB1FAB9405F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A59C242-0C26-4E7B-A268-CBB1FAB9405F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D35A1356-0075-4C06-8B1F-77C3220C222F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D35A1356-0075-4C06-8B1F-77C3220C222F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D35A1356-0075-4C06-8B1F-77C3220C222F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D35A1356-0075-4C06-8B1F-77C3220C222F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2215D7E4-6810-4F9B-8B77-CD04E2663FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2215D7E4-6810-4F9B-8B77-CD04E2663FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2215D7E4-6810-4F9B-8B77-CD04E2663FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2215D7E4-6810-4F9B-8B77-CD04E2663FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2C117C1-9079-4BE5-A96C-2515507ED8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C117C1-9079-4BE5-A96C-2515507ED8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C117C1-9079-4BE5-A96C-2515507ED8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C117C1-9079-4BE5-A96C-2515507ED8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35FD3169-8CC0-426E-B703-F43F7BDBDE32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35FD3169-8CC0-426E-B703-F43F7BDBDE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35FD3169-8CC0-426E-B703-F43F7BDBDE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35FD3169-8CC0-426E-B703-F43F7BDBDE32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal

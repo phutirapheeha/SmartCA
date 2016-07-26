@@ -1,0 +1,4 @@
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure.UI\bin\Debug\SmartCA.Infrastructure.UI.dll
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure.UI\bin\Debug\SmartCA.Infrastructure.UI.pdb
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure.UI\obj\Debug\SmartCA.Infrastructure.UI.dll
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA.Infrastructure.UI\obj\Debug\SmartCA.Infrastructure.UI.pdb
