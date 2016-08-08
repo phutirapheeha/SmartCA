@@ -84,8 +84,20 @@
     <Compile Include="ViewModels\ProjectContactViewModel.cs" />
     <Compile Include="ViewModels\ProjectInformationViewModel.cs" />
     <Compile Include="ViewModels\SelectProjectViewModel.cs" />
+    <Compile Include="Views\Addresses.xaml.cs">
+      <DependentUpon>Addresses.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\CompanyView.xaml.cs">
+      <DependentUpon>CompanyView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ProjectContactView.xaml.cs">
+      <DependentUpon>ProjectContactView.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Views\ProjectInformationView.xaml.cs">
       <DependentUpon>ProjectInformationView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\SelectProjectView.xaml.cs">
+      <DependentUpon>SelectProjectView.xaml</DependentUpon>
     </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -99,9 +111,25 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Views\Addresses.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\CompanyView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\ProjectContactView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Views\ProjectInformationView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\SelectProjectView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
   <ItemGroup>

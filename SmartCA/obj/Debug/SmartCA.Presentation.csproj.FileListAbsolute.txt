@@ -45,3 +45,13 @@ C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA\bin\De
 C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
 C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
 C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA\obj\Debug\Views\CompanyView.g.cs
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA\obj\Debug\Views\ProjectContactView.g.cs
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA\obj\Debug\Views\SelectProjectView.g.cs
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA\obj\Debug\SmartCA_MarkupCompile.lref
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA\obj\Debug\Views\Addresses.baml
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA\obj\Debug\Views\Addresses.g.cs
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA\obj\Debug\Views\CompanyView.baml
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA\obj\Debug\Views\ProjectContactView.baml
+C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA\obj\Debug\Views\SelectProjectView.baml

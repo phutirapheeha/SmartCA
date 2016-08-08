@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\bbdnet0906\Documents\Visual Studio 2013\Projects\SmartCA\SmartCA\App.xaml
-2-656229338
+6-1048750301
 
-101693830395
+171039062128
 231135835582
-MainWindow.xaml;Views\ProjectInformationView.xaml;
+MainWindow.xaml;Views\Addresses.xaml;Views\CompanyView.xaml;Views\ProjectContactView.xaml;Views\ProjectInformationView.xaml;Views\SelectProjectView.xaml;
 
 False
 
